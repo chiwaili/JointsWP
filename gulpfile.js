@@ -12,7 +12,7 @@ var gulp  = require('gulp'),
 // Modify these variables to match your project needs
 
 // Set local URL if using Browser-Sync
-const LOCAL_URL = 'http://jointswp.local/';
+const LOCAL_URL = 'http://localhost:3000/buddy/';
 
 // Set path to Foundation files
 const FOUNDATION = 'node_modules/foundation-sites';
